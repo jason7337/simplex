@@ -1,0 +1,18 @@
+.titulo{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+   
+}
+body{
+    background: linear-gradient(to right, #E0DC93 , #FFFF00)
+
+}
+.Nvariables{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+.Nrestricciones{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+
+}
